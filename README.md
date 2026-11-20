@@ -4,6 +4,8 @@ A collection of AI agent skills for **change management, organizational assessme
 
 Created by [Filippo Scorza](https://github.com/filipposcorza).
 
+[![skills.sh](https://skills.sh/b/filipposcorza/consulting-skills)](https://skills.sh/filipposcorza/consulting-skills)
+
 ## Skills
 
 | Skill | Description |
