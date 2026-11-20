@@ -1,0 +1,32 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Assessment & Diagnosis",
+      "description": "Skills for organizational assessment, problem diagnosis, and intervention design.",
+      "skills": [
+        "assessment-engine",
+        "diagnostic-navigator",
+        "intervention-architect"
+      ]
+    },
+    {
+      "title": "Change & Automation",
+      "description": "Workflow audit, automation mapping, and process redesign.",
+      "skills": [
+        "mappatura-automazione-workflow",
+        "content-positioning-engine"
+      ]
+    },
+    {
+      "title": "Facilitation & Simulation",
+      "description": "Workshop facilitation, client simulation, and practice-based consulting.",
+      "skills": [
+        "workshop-facilitation-co-designer",
+        "red-team-simulation-partner",
+        "practice-based-consulting"
+      ]
+    }
+  ]
+}
