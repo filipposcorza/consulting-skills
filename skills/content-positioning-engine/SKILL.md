@@ -1,8 +1,9 @@
----
+|---
 name: content-positioning-engine
 description: Pianifica e produce contenuti (LinkedIn, blog The Work Paradigm, newsletter) allineati ai framework F1–F6 e ai principi del Manifesto AI (R9 del DOS). Suggerisce topic basati su progetti attivi, framework da veicolare, eventi/trend.
 category: consulting
 prerequisites: [consulting/diagnostic-navigator]
+ontology_refs: [F1, F2, F3, F4, F5, F6, M1, M4, M5, M9, M10]
 ---
 
 # Content & Positioning Engine

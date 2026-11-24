@@ -1,8 +1,9 @@
----
+|---
 name: assessment-engine
 description: "Gestisce il ciclo completo di un assessment I5: survey design, interviste strutturate, analisi, report, roadmap. Include Digital Readiness Checkup, ONA light, OKR maturity."
 category: consulting
 prerequisites: [consulting/diagnostic-navigator, consulting/client-world-model-keeper]
+ontology_refs: [P1, P2, P3, P4, P5, P6, I5]
 ---
 
 # Assessment Engine

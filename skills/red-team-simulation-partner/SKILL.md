@@ -1,8 +1,9 @@
----
+|---
 name: red-team-simulation-partner
 description: "Simula conversazioni cliente: CEO scettico, CHRO che deve vendere la proposta internamente, stress-test su roadmap e offerte. Prepara il consulente alle obiezioni prima che arrivino."
 category: consulting
 prerequisites: [consulting/diagnostic-navigator, consulting/intervention-architect, consulting/proposal-designer-ontologico]
+ontology_refs: [F1, F2, F3, F4, F5, F6]
 ---
 
 # Red Team & Simulation Partner

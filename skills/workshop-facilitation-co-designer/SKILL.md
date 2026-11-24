@@ -1,8 +1,9 @@
----
+|---
 name: workshop-facilitation-co-designer
 description: "Progetta workshop e sessioni di facilitazione: scaletta, materiali, domande chiave, output attesi. Usa il repertorio esistente senza reinventare."
 category: consulting
 prerequisites: [consulting/client-world-model-keeper]
+ontology_refs: [P1, P2, P3, P4, P5, P6]
 ---
 
 # Workshop & Facilitation Co-Designer

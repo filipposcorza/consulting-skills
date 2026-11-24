@@ -1,8 +1,9 @@
----
+|---
 name: intervention-architect
 description: Dato un problema diagnosticato (P1–P6), propone opzioni d'intervento (I1–I6) con framework associati (F1–F6). Modula tra versioni light/standard/trasformativa. Include durata, ticket, rischi.
 category: consulting
 prerequisites: [consulting/diagnostic-navigator]
+ontology_refs: [P1, P2, P3, P4, P5, P6, I1, I2, I3, I4, I5, I6, F1, F2, F3, F4, F5, F6]
 ---
 
 # Intervention Architect

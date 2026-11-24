@@ -2,6 +2,7 @@
 name: practice-based-consulting
 title: Practice-Based Consulting
 description: Extract client-facing advice from the user's curated knowledge base (Obsidian vault). Maps client problems and scenarios to the user's documented practices, frameworks, and reflections to generate synthesis-aligned recommendations.
+ontology_refs: [P1, P2, P3, P4, P5, P6, I1, I2, I3, I4, I5, I6, F1, F2, F3, F4, F5, F6]
 trigger:
   - User presents a real or hypothetical client problem
   - User asks what consulting routes or recommendations are possible given their work

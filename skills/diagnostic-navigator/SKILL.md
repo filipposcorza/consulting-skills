@@ -1,7 +1,8 @@
----
+|---
 name: diagnostic-navigator
 description: Mappa input grezzi (note call, email, sintomi) ai problemi P1–P6 dell'Ontologia Professionale. Distingue sintomi da cause da leve di intervento. Non propone mai soluzioni prima della diagnosi.
 category: consulting
+ontology_refs: [P1, P2, P3, P4, P5, P6]
 ---
 
 # Diagnostic Navigator
